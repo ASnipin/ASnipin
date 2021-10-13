@@ -1,5 +1,8 @@
 ## (☞ﾟヮﾟ)☞  **Olá seja bem vindo**   ☜(ﾟヮﾟ☜)  
 
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+
 <div style="display: inline_block">
 
 <img align="center" alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
