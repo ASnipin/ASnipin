@@ -9,7 +9,7 @@
 
 ## Tecnologias que eu uso!
 
-![ASnipin tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=ASnipin&layout=compact&langs_count=7&theme=&icon_color=a83232&bg_color=1a1919&border_color=a83232&title_color=5238ff&text_color=5238ff)
+![ASnipin tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=ASnipin&layout=compact&langs_count=7&theme=&icon_color=a83232&bg_color=1a1919&locale=pt-br&border_color=a83232&title_color=5238ff&text_color=5238ff)
 
 <div style="display: inline_block"></br>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
