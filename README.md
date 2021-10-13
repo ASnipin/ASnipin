@@ -1,4 +1,4 @@
-## (☞ﾟヮﾟ)☞  **Olá seja bem vindo**   ☜(ﾟヮﾟ☜)  
+**Olá, seja bem vindo** 👋
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Czdup9Dfae)
 ![Blogger](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
